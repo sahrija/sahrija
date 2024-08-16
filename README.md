@@ -17,7 +17,7 @@ I'm a computer science student with a passion for web, software and game develop
 
 
 ## 📈 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sahrija&show_icons=true&hide_border=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sahrija&show_icons=true&hide_border=true&theme=transparent)
 
 
 ## 📫 How to reach me
