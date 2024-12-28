@@ -25,5 +25,5 @@ I'm a computer science student with a passion for web, software and game develop
 - LinkedIn: [https://www.linkedin.com/in/ahmad-sahrija](https://www.linkedin.com/in/ahmad-sahrija)
 
 
-## ⚡ Fun Facts
-- 🌱 I’m currently learning Next.js!
+## ⚡ More
+- 🌱 I’m currently learning Next.js, Godot engine, and make some pixel arts
