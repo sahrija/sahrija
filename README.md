@@ -26,4 +26,4 @@ I'm a computer science student with a passion for web, software and game develop
 
 
 ## ⚡ More
-- 🌱 I’m currently learning Next.js, Godot engine, and make some pixel arts
+- 🌱 I’m currently learning Next.js, Godot engine, and making some pixel arts
