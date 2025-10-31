@@ -1,6 +1,6 @@
 # Hi there, I'm Sahrija 👋
 
-Average skill in web development. Loves pixel art.
+Good skill in web development using Laravel and game developmen using Godot Engine . Loves pixel art.
 
 ## Tools I am using
 - For web: 
